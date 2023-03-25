@@ -31,3 +31,6 @@ Komponen yang Digunakan :
 
 SKEMA BOARD :
 ![image](https://user-images.githubusercontent.com/74778010/227731799-fb0c3d6a-2cbd-44fe-82a8-3b613667bdb2.png)
+
+LINK VIDEO DEMO :
+https://drive.google.com/file/d/1GcjiJApx0xU3cK2PgDVBKJz48HtXydIk/view?usp=share_link
